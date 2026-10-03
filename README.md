@@ -94,4 +94,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [karan Ingle](https://github.com/ingle9067)
